@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0Otk+xhMlk=",
+  "dgSpecHash": "byVcyTh9pEc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj",
+  "projectFilePath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anand\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\anand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
@@ -73,3 +73,14 @@
     "C:\\Users\\anand\\.nuget\\packages\\uglytoad.pdfpig.tokens\\1.7.0-custom-5\\uglytoad.pdfpig.tokens.1.7.0-custom-5.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\obj\\project.nuget.cache : Expected depth to be zero at the end of the JSON payload. There is an open JSON object or array that should be closed. Path: $.logs[0] | LineNumber: 74 | BytePositionInLine: 11.",
+      "projectPath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

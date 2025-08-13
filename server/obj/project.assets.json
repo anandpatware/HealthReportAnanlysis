@@ -4251,11 +4251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj",
+      "projectUniqueName": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
       "projectName": "server",
-      "projectPath": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj",
+      "projectPath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
       "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\obj\\",
+      "outputPath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anand\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4348,4 +4348,14 @@
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
- 
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\obj\\project.nuget.cache : Expected depth to be zero at the end of the JSON payload. There is an open JSON object or array that should be closed. Path: $.logs[0] | LineNumber: 74 | BytePositionInLine: 11."
+    }
+  ]
+}

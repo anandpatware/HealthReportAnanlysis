@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj": {}
+    "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj": {
+    "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj",
+        "projectUniqueName": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\server.csproj",
+        "projectPath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\server.csproj",
         "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anand\\Desktop\\HealthReportAnalysis\\server\\obj\\",
+        "outputPath": "C:\\Users\\anand\\Desktop\\HMA\\HealthReportAnanlysis\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anand\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -104,4 +104,7 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
-  
+      }
+    }
+  }
+}
