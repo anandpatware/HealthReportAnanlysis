@@ -63,7 +63,11 @@ export default function UploadPage() {
             style={{ maxHeight: "200px", maxWidth: "100%" }}
           />
         )}
-        <button disabled={!selectedFile} onClick={getFileAnalysis}>
+        <button
+          className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-2 px-6 rounded-lg shadow transition duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-purple-400"
+          disabled={!selectedFile}
+          onClick={getFileAnalysis}
+        >
           Upload
         </button>
       </div>
