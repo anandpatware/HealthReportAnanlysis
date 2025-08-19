@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCFWpZYYFSkt49pJvmqYE4yjki_Wvj9yjc",
+  apiKey: API_KEY,
   authDomain: "health-report-analysis.firebaseapp.com",
   projectId: "health-report-analysis",
   storageBucket: "health-report-analysis.appspot.com",
