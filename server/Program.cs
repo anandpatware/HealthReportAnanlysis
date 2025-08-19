@@ -1,9 +1,18 @@
+using FirebaseAdmin;
+using Google.Apis.Auth.OAuth2;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+FirebaseApp.Create(new AppOptions()
+{
+    Credential = GoogleCredential.FromFile("firebase-service-account.json")
+});
+
 builder.Services.AddControllers();
+builder.Services.AddAuthentication();
 builder.Services.AddEndpointsApiExplorer();
 
-// ✅ Fix: add Swagger doc definition
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo

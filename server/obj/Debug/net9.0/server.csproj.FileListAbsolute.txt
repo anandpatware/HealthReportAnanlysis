@@ -358,3 +358,13 @@ C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\obj\Debug\net9.0\refint\
 C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\obj\Debug\net9.0\server.pdb
 C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\obj\Debug\net9.0\server.genruntimeconfig.cache
 C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\obj\Debug\net9.0\ref\server.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\FirebaseAdmin.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Google.Api.Gax.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\System.Management.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\anand\Desktop\HMA\HealthReportAnanlysis\server\bin\Debug\net9.0\firebase-service-account.json
