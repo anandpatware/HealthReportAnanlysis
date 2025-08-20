@@ -4,7 +4,7 @@ import { auth } from "../firebase";
 import axios from "axios";
 import { useNavigate } from "react-router-dom"; // ✅ import useNavigate
 import Login from "./Login";
-
+import { Link } from "react-router-dom";
 function Register() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -49,6 +49,9 @@ function Register() {
         onChange={(e) => setPassword(e.target.value)}
       />
       <button onClick={handleRegister}>Register</button>
+      <p>
+        Already registered? <Link to="/login">Login here</Link>
+      </p>
     </div>
   );
 }
